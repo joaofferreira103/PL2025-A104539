@@ -8,7 +8,8 @@ Processamento de Linguagens 2024/2025
 - **Nome:** João Pedro Ferreira e Ferreiraa
 - **Número:** A104539
 
-![Minha Imagem](img/JoãoFerreiraFoto.jpg)
+<img src="img/minha_imagem.png" alt="Minha Imagem" width="400" height="200">
+
 
 ## Resumo 
 
