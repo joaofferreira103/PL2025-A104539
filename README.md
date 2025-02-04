@@ -9,7 +9,7 @@ Processamento de Linguagens 2024/2025
 - **Número:** A104539
 
 
-<img src="img/JoãoFerreira.jpg" alt="João Ferreira" width="400" height="200">
+<img src="img/JoãoFerreira.jpg" alt="João Ferreira" width="300" height="400">
 
 
 ## Resumo 
